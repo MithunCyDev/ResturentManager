@@ -1,0 +1,8 @@
+path: ./datasets/restaurant
+train: images/train
+val: images/val
+
+names:
+  0: coffee_cup
+  1: meal_plate
+  2: utensils
